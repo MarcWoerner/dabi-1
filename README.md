@@ -10,7 +10,7 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 3) Windgeschw -> `fabi` <br>
 4) Farbpalette -> `fabi` <br>
 5) Basisrepo bestücken -> `leo` <br>
-6) Tempausreißer -> `lizzy
+6) Tempausreißer -> `lizzy`
 
 
 ---
