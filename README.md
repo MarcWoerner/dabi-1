@@ -15,4 +15,4 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 
 ---
 
-- Nächster Termin: Montag Nach IT-Projekte
+- Nächster Termin: Mittwoch
