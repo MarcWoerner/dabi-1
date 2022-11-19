@@ -3,9 +3,7 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 
 ---
 ---
-#### TODO SPRINT_2
-
-# TODO
+#### TODO SPRINT_3
 
 1) humidity und windspeed korrelation `leo`
 2) Nacht für sich betrachten -> spikes `fabi`
