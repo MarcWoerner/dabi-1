@@ -5,14 +5,17 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 ---
 #### TODO SPRINT_2
 
-1) df auf Stunde gruppieren (dazu Durchschnitt temp und humidity) `Leo` 
-2) Modell erstellen auf df bei dem Ausleihen auf Uhrzeit gruppiert `Leo` 
-3) Regressionsmodell und lin reg für jedes einzelne Feature in Bezug auf Ausleihen `Lissi` 
-4) Einfluss Wetter `Lissi` 
-5) Einfluss atemp und temp `Fabi` 
-6) Jahreszeiten auf tagesgruppierten Ausleihplot durch Vertikallinien oder Farbe anzeigen `Marc` 
-7) Dataprep Spalte Quartal und Jahreszeit hinzufügen `Marc` 
-8) Spikes anschauen `Schwarm` 
+# TODO
+
+1) humidity und windspeed korrelation `leo`
+2) Nacht für sich betrachten -> spikes `fabi`
+3) reg und unreg summe je stunde `lissi`
+4) neue parquet erstellen mit allen neuen spalten `lissi`
+5) linechart season auf stunde gruppiert (linie für jede Jahreszeit) `marc`
+6) Spikes anschauen `Schwarm` 
+ 
+Nächster Termin: Dienstag Nachmittag
+
 ---
 
 #### Themen für finale Auswertung
@@ -23,6 +26,5 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 
 ---
 
-- Nächster Termin: Samstag 19.11.22 11:00 Uhr
 
 
