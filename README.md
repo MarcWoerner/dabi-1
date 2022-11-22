@@ -5,15 +5,15 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 ---
 ### TODO
 
-+ piecharts nebeneinander darstelle `marc`
-+ seasons in Jahr 20 und 21 vergleichen (vermehrung um wie viel Prozent) `marc`
-+ season(t test) `marc`
-+ weather (Chi^2 test) `fabi`
-+ humidity (Korrkoeff (Bei gruppierten Daten)) `lissi`
-+ windspeed `leo`
+- piecharts nebeneinander darstelle `marc`
+- seasons in Jahr 20 und 21 vergleichen (vermehrung um wie viel Prozent) `marc`
+- season(t test) `marc`
+- weather (Chi^2 test) `fabi`
+- humidity (Korrkoeff (Bei gruppierten Daten)) `lissi`
+- windspeed `leo`
 
-+ Aufgabenstellung nochmal lesen `schwarm`
-+ Mögliche Handlungsempfehlungen `schwarm`
+- Aufgabenstellung nochmal lesen `schwarm`
+- Mögliche Handlungsempfehlungen `schwarm`
 
 
 Nächster Termin: Mittwoch 23.11.22 16:00
