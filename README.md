@@ -3,16 +3,20 @@ Repository zur Versionsverwaltung des ersten Projekts in Data Analytics und Busi
 
 ---
 ---
-#### TODO SPRINT_3
+### TODO
 
-1) humidity und windspeed korrelation `leo`
-2) Nacht für sich betrachten -> spikes `fabi`
-3) reg und unreg summe je stunde `lissi`
-4) neue parquet erstellen mit allen neuen spalten `lissi`
-5) linechart season auf stunde gruppiert (linie für jede Jahreszeit) `marc`
-6) Spikes anschauen `Schwarm` 
- 
-Nächster Termin: Dienstag Nachmittag
+- piecharts nebeneinander darstelle `marc`
+- seasons in Jahr 20 und 21 vergleichen (vermehrung um wie viel Prozent) `marc`
+- season(t test) `marc`
+- weather (Chi^2 test) `fabi`
+- humidity (Korrkoeff (Bei gruppierten Daten)) `lissi`
+- windspeed `leo`
+
+- Aufgabenstellung nochmal lesen `schwarm`
+- Mögliche Handlungsempfehlungen `schwarm`
+
+
+Nächster Termin: Mittwoch 23.11.22 16:00
 
 ---
 
@@ -21,7 +25,8 @@ Nächster Termin: Dienstag Nachmittag
 - Ausleihen je Uhrzeit je Wochentag 
 - Korrelationsmodell (Spearman zweiter Ansatz) `fabi`
 - Jahreszeiten je Jahr `Marc`
-
+- season pie-vergleich 
+- ausleihen je stunde 
 ---
 
 
